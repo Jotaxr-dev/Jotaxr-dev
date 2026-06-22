@@ -1,36 +1,28 @@
-[README (1).md](https://github.com/user-attachments/files/28325429/README.1.md)
-<div align="center">
+# Olá! Eu sou o Jota Xavier 👋
 
-# 👋 Olá! Eu sou o **Jota Xavier**
-### Desenvolvedor Full Stack em formação | Fortaleza, CE 🌵
+### Desenvolvedor Full Stack em formação | Fortaleza, CE 🌴
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotaxr-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotax7.contato@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jotaxr-dev)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jotaxr-dev)
+[![GMAIL](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotax7.contato@gmail.com)
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jotaxr-dev)
 
-</div>
-
----
-
-```javascript
+```js
 const jotaXavier = {
-  nome:      "Junho Xavier (Jota Xavier)",
-  localizacao: "Fortaleza, CE — Brasil",
-  formacao:  [
+  nome:       "Junho Xavier (Jota Xavier)",
+  localizacao: "Fortaleza, CE - Brasil",
+  formacao: [
     "Técnico Full Stack - Digital College — em conclusão",
-    "Análise e Desenvolvimento de Sistemas — UniAteneu - em conclusão"
+    "Análise e Desenvolvimento de Sistemas - UniAteneu - em conclusão"
   ],
   tecnologias: {
-    frontend:  ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
-    backend:   ["Node.js", "Express"],
-    database:  ["PostgreSQL"],
-    aprendendo: ["TypeScript", "Next.js", "NestJS", "Docker", "MongoDB", "Postman", "Insomnia"],
-    orm:        ["Prisma", "Sequelize"],
-    inteligenciaArtificial: ["Integração de APIs (OpenAI)", "Prompt Engineering", "Machine Learning (conceitos)", "IA aplicada no dia a dia"],
-    tools:     ["Git", "GitHub"]
+    frontend:    ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
+    backend:     ["Node.js", "Express"],
+    database:    ["PostgreSQL"],
+    tools:       ["Git", "GitHub", "VS Code"],
+    aprendendo:  ["TypeScript", "Next.js", "NestJS", "Docker", "MongoDB", "Prisma"]
   },
-  status:    "Buscando oportunidade de estágio ou júnior 🚀",
-  hobbies:   ["Codar", "Aprender coisas novas", "Resolver problemas reais"]
+  status:  "Buscando oportunidade de estágio ou júnior 🚀",
+  hobbies: ["Codar", "Aprender coisas novas", "Resolver problemas reais"]
 };
 ```
 
@@ -38,85 +30,53 @@ const jotaXavier = {
 
 ## 🚀 Tecnologias e Ferramentas
 
-**Front-end**
-
+### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TAILWIND_CSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Back-end**
+### Back-end
+![NODE.JS](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+### Banco de Dados
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Banco de Dados**
+### Ferramentas
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS_CODE](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-**🗂️ ORM**
-
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-
-**📚 Atualmente aprendendo**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-
-**🤖 Inteligência Artificial**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+### 📖 Atualmente aprendendo
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NEXT.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NESTJS](https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PRISMA](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ---
 
 ## 📂 Projetos em Destaque
 
-> 🔨 Projetos em desenvolvimento — em breve aqui!
+> 🔨 Projetos em desenvolvimento — em breve com links e deploy aqui!
 
 | Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🗓️ Sistema para Barbearia | Agendamento online para barbearias | React, Node.js, PostgreSQL |
-| 🍔 Cardápio Digital | Cardápio via QR Code para restaurantes | React, Node.js, PostgreSQL |
-| 📦 Gerenciador de Estoque | Controle de estoque para pequenos comércios | React, Node.js, PostgreSQL |
-| ✅ To-Do com Autenticação | Lista de tarefas com login e CRUD completo | React, Node.js, PostgreSQL |
+|---|---|---|
+| _em construção_ | _em construção_ | _em construção_ |
 
 ---
 
+## 📫 Encontre-me
 
-
-## 📬 Encontre-me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jotaxr--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotaxr-dev)
-[![Email](https://img.shields.io/badge/Email-jotax7.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotax7.contato@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Jotaxr--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jotaxr-dev)
-
-</div>
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jotaxr-dev)
+[![EMAIL](https://img.shields.io/badge/EMAIL-jotax7.contato%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotax7.contato@gmail.com)
+[![GITHUB](https://img.shields.io/badge/GITHUB-JOTAXR--DEV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jotaxr-dev)
 
 ---
-
-<div align="center">
 
 *"Todo expert já foi um iniciante. A diferença é que ele não parou."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Jotaxr-dev.Jotaxr-dev)
-
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=Jotaxr-dev&style=for-the-badge&color=blue)
