@@ -97,10 +97,6 @@ const jotaXavier = {
 
 * Arquitetura e desenvolvimento de aplicações Full Stack
 * Boas práticas com TypeScript
-* Autenticação e autorização com JWT
-* APIs REST
-* Docker e containerização
-* Integração entre Front-end, Back-end e Banco de Dados
 * Deploy e infraestrutura para aplicações web
 
 ---
